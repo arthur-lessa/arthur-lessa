@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f1e15&height=120&section=header"/>
 Meu nome é Arthur Lessa, tenho 16 anos e estou cursando Informática integrado ao Ensino Médio no Instituto Federal de São Paulo - IFSP e atualmente estou no 2º ano. Seja bem vind@!
-
 ## - Principais linguagens:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
