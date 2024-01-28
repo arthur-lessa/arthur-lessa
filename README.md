@@ -2,7 +2,7 @@
 
 # Seja bem vind@!
 
-Meu nome é **Arthur**, tenho **16 anos** e sou estudante do **IFSP**. Estou no **2° ano** do **Ensino Médio Integrado a Informática**.
+Meu nome é **Arthur**, tenho **16 anos** e sou estudante do **IFSP**. Estou no **3° ano** do **Ensino Médio Integrado a Informática**.
 
 ## - Principais linguagens:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
