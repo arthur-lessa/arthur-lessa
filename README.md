@@ -24,7 +24,7 @@ Meu nome é **Arthur**, tenho **16 anos** e sou estudante do **IFSP**. Estou no 
 ![Pycharm](https://img.shields.io/badge/PyCharm-bfd941.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-- Sistemas operacionais:
+## - Sistemas operacionais:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
