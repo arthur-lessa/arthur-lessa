@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f1e15&height=120&section=header"/>
 
-# Seja bem vind@!
+# Seja bem vindo(a)!
 
 Meu nome é **Arthur**, tenho **17 anos** e sou estudante do **IFSP**. Estou no **3° ano** do **Ensino Médio Integrado a Informática**.
 
