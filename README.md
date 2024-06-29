@@ -18,10 +18,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br>
-
-<div align="center" style="display: flex">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouraluck&layout=donut-vertical&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 ## • Estudando:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
