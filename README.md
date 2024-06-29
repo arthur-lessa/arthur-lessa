@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f1e15&height=120&section=header"/>
 
-# Seja bem vindo(a)!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Arthur+Lessa%2C+seja+bem+vindo!" alt="Typing SVG" /></a>
 
 Meu nome é **Arthur**, tenho **17 anos** e sou estudante do **IFSP**. Estou no **3° ano** do **Ensino Médio Integrado a Informática**.
 
