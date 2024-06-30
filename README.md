@@ -12,9 +12,9 @@
   
   **Formação**
   <br> 
-  :books: Aluno em Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – IFSP Câmpus São Paulo
+  :books: Aluno em `Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – IFSP Câmpus São Paulo`
   <br>
-  :book: Cursando Técnico em Informática Integrado ao Ensino Médio - 3/4
+  :book: Cursando `Técnico em Informática Integrado ao Ensino Médio - 3/4`
   <br> <br>
 </div>
 
