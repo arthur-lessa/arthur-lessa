@@ -2,7 +2,7 @@
 
 <div align="center" style="display: flex">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Arthur%2C+seja+bem+vindo!" alt="Typing SVG" /></a>
-  <br>  <br>  
+  <br>
   
 </div>
 
@@ -25,7 +25,6 @@
 <div align="center" >
   
   ![lessthur's Stats](https://github-readme-stats.vercel.app/api?username=lessthur&theme=gotham&show_icons=true&hide_border=false&count_private=false)
-  ![lessthur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lessthur&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 <!--![lessthur's Stats](https://github-readme-stats.vercel.app/api?username=lessthur&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=false) -->
