@@ -54,7 +54,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
-## Contato
+## • Contato:
 
 <div align="justify" style="display: flex">
   <a href="mailto:thurlessaf@gmail.com">
