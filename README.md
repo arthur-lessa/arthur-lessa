@@ -25,7 +25,7 @@
 <div align="center" >
   
   ![lessthur's Stats](https://github-readme-stats.vercel.app/api?username=lessthur&theme=gotham&show_icons=true&hide_border=false&count_private=false)
-  ![lessthur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lessthur&theme=gotham&hide_border=false)
+  ![lessthur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lessthur&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 <!--![lessthur's Stats](https://github-readme-stats.vercel.app/api?username=lessthur&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=false) -->
@@ -34,13 +34,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-
-## • IDEs:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-8250b5.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-bfd941.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## • Ferramentas:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -74,8 +67,11 @@
 
 ##
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+**Portfólio**
 <br> <br>
-<strong>www.linkedin.com/in/arthurlf</strong>
+<a href="www.linkedin.com/in/arthurlf">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f1e15&height=120&section=footer"/>
