@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=085d70&height=120&section=header"/>
-
 <div align="center" style="display: flex">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=25&duration=3500&pause=2500&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo(a)!" alt="Typing SVG" /></a>
   <br>
@@ -56,26 +54,18 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
-## • Outras Informações
+## Contato
 
 <div align="justify" style="display: flex">
-
-  **Contato** 
-
-  <!--
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thurlessaf@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthurlf)
-  -->
-
+  <br>
   <a href="mailto:thurlessaf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a>
   <a href="https://www.linkedin.com/in/arthurlf/ " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
+  <a href="https://www.instagram.com/thur.lss"">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
 </div>
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=085d70&height=120&section=footer"/>
