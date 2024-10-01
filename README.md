@@ -35,7 +35,7 @@
 <br>
 <div align="center">
   
-  ![lessthur's Stats](https://github-readme-stats.vercel.app/api?username=lessthur&theme=gotham&show_icons=true&hide_border=false&count_private=false)
+  ![arthur-lessa's Stats](https://github-readme-stats.vercel.app/api?username=arthur-lessa&theme=gotham&show_icons=true&hide_border=false&count_private=false)
 </div>
 
 ## • Estudando:
